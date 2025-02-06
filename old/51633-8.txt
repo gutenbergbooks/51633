@@ -1,4 +1,41 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 51633 ***
+Project Gutenberg's A Schoolmaster's Diary, by Stuart Petre Brodie Mais
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: A Schoolmaster's Diary
+       Being Extracts from the Journal of Patrick Traherne, M.A.,
+       Sometime Assistant Master at Radchester and Marlton.
+
+Author: Stuart Petre Brodie Mais
+
+Release Date: April 2, 2016 [EBook #51633]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK A SCHOOLMASTER'S DIARY ***
+
+
+
+
+Produced by Chris Whitehead, MWS and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive/Canadian Libraries)
+
+
+
+
+
+
+
+
 
   A SCHOOLMASTER'S
   DIARY
@@ -330,7 +367,7 @@ found any clue in them to the mania which has led to his downfall.
 In the diary, on the other hand, he lets himself go; the constant
 friction, the unrealized ideals find expression: on the surface,
 in his letters to his friends, he was charmingly lighthearted and
-humorous. One would never suspect the _sÃ¦va indignatio_ which was
+humorous. One would never suspect the _sæva indignatio_ which was
 ultimately to be his undoing, in anything but his published works.
 
 I never met a man who was so different in his person from what you
@@ -474,7 +511,7 @@ scholarship. I appear to have been selected rather on athletic than
 intellectual grounds. My "Blue" has gained for me this important post
 and I am evidently expected to play games daily. Well, I shan't mind
 that; I cannot conceive how men exist without daily exercise. Thank
-Heaven, I'm not in an office. After all, Â£150 a year and my "keep" is
+Heaven, I'm not in an office. After all, £150 a year and my "keep" is
 quite an adequate salary for a man of twenty-four without encumbrances.
 
 There is something monastic about the life here: only one other master
@@ -800,7 +837,7 @@ to express emotion. Then I decided to make them come out and try to
 act the play with the books in their hands. This was looked upon as a
 grave departure from precedent and an opportunity for "ragging." When I
 pointed out that there was plenty of chance for a display of horse-play
-in the crowd scenes in _Julius CÃ¦sar_ and _Coriolanus_, they possessed
+in the crowd scenes in _Julius Cæsar_ and _Coriolanus_, they possessed
 themselves in patience until the time to read these plays. Heavens! How
 they loved the mob scenes. Here was something after their own hearts.
 At last I had roused their interests. Most of the comic scenes fell
@@ -864,7 +901,7 @@ law: it is a habit against which I must most carefully guard.
 On the other hand, always being with crowds of healthy youngsters
 certainly tends to keep a man young: there are very few
 responsibilities, I am catered for, I pay no rates or taxes, I
-have Â£150 a year to spend on books, clothes, travel, and any other
+have £150 a year to spend on books, clothes, travel, and any other
 incidental expenses I like: I have longer holidays than any other
 professional man: for four months in the year I am free to do whatever
 I like.
@@ -1230,7 +1267,7 @@ so many good resolutions at the beginning of term and none of them
 seems to have materialized. I am still going too fast in mathematics,
 although I keep a strict hold on myself all the time. I think the
 secret is that I am more of a lecturer than a teacher. I find it
-very hard indeed to repeat over and over again the same formulÃ¦,
+very hard indeed to repeat over and over again the same formulæ,
 dinning them into thick heads day after day for weeks on end without
 any variation. I want to keep the boys interested. Some of them make
 tremendous headway with me: others learn nothing from me at all. In
@@ -1238,7 +1275,7 @@ English it is otherwise: most people who come to me for this subject
 are beginning to read, which is the best possible sign. In the past
 they seem to have read nothing, not even "The Arabian Nights," nor "The
 Canterbury Tales," nor "Gulliver's Travels," nor any of the novels
-of Thackeray, or Dickens, or the BrontÃ«s, nor any poetry, nor essays
+of Thackeray, or Dickens, or the Brontës, nor any poetry, nor essays
 nor plays. Now at least they do search the library for books which I
 recommend.
 
@@ -1305,7 +1342,7 @@ against which their better judgments first taught them to rebel.
 
 One excitement of the last month has been the visit of the Inspectors:
 they are due once every five years and are supposed to be selected with
-scrupulous care. They are fÃªted for a week and shown everything at its
+scrupulous care. They are fêted for a week and shown everything at its
 most abnormal and best: it is no fair test at all. For one whole week
 no boy dared to "rag" even such a pitiable ass as Pennefeather, lest
 the Head Master and Inspectors should suddenly come in. Richards having
@@ -1389,7 +1426,7 @@ I am glad to be back again, but I never enjoyed any holiday in all my
 life as I enjoyed the one just finished. Illingworth and I took a train
 to Bideford on the first day of the holidays and put up in the hotel
 where Kingsley wrote "Westward Ho!" The difference between that old,
-bizarre, mediÃ¦val sleepy town and Radchester is impossible to believe.
+bizarre, mediæval sleepy town and Radchester is impossible to believe.
 We spent our first evening talking to old sailors on the quay, and it
 did not require much imagination to take us back to the brave days of
 Elizabeth.
@@ -1740,7 +1777,7 @@ would willingly forget it.
 
 I have been wondering lately whether I am not wasting such talents as I
 have at Radchester. I certainly do not want to stay here for ever with
-no prospect of ever earning more than Â£300 a year, and yet there is no
+no prospect of ever earning more than £300 a year, and yet there is no
 denying that on the whole I love the place and that I feel an insidious
 temptation to take root here. Just by way of experiment I have
 answered a few advertisements to see if I have any chance of getting
@@ -1795,7 +1832,7 @@ and old. I read extracts from all sorts of authors in form and try to
 whet their appetites for more. I only wish that instead of a paltry
 two hours a week I could inveigle the Head to give me an hour a day.
 All the other English masters here confine themselves to analysis,
-parsing, prÃ©cis, and one play of Shakespeare per year. I have run
+parsing, précis, and one play of Shakespeare per year. I have run
 through (lightly) the whole course of English Literature in the last
 three terms and some boys have specialized on drama, others on ballads,
 others on fiction and a few on poetry, each following his own bent.
@@ -1825,7 +1862,7 @@ on. When they are filled up they are about as much good as a guide to
 parents as when they are untouched. No one could possibly gauge a boy's
 merit or progress from these things. They remind me of marks, which as
 a criterion of a boy's terminal success are as bad a test as could be
-devised. I always feel that I am being paid Â£150 a year simply to do
+devised. I always feel that I am being paid £150 a year simply to do
 this sort of hack work, to fill up reports and to make out a weekly
 order for my form. All the rest of my work I give willingly without
 payment.
@@ -1851,7 +1888,7 @@ for field-days, outpost, advanced guard and other exercises; he is
 an expert scout, signaller, and drill-master. He demands the utmost
 punctilio in matters of ceremonial on parade: he coaches individually
 each boy who shoots on the range; he spends most of his holidays in
-barracks or on Army manÅ“uvres as a lieutenant in the Special Reserve.
+barracks or on Army manoeuvres as a lieutenant in the Special Reserve.
 He is one of the few men I know who is convinced that we are shortly
 to embark on a colossal European war, and naturally all the rest of
 Common Room laugh at him. He really is rather absurd, yet I cannot
@@ -1864,7 +1901,7 @@ don't "ginger up" the boys enough. He is a firm believer in the rod;
 he canes nearly all the boys in his House weekly, just to keep them up
 to the mark and himself in training. He detests my theories that boys
 should be taught in comfortable rooms with good pictures on the walls
-and Ã¦sthetic colours to delight their senses. He is one of those men
+and æsthetic colours to delight their senses. He is one of those men
 who is suspicious of all Art as tending towards the immoral. They say
 he is admirable in camp, and that all the other Public School officers
 stand in awe of him because he knows his job so much better than they
@@ -2540,7 +2577,7 @@ education.
 How little do we care how well or badly a boy talks, reads, acts,
 sings, reasons or constructs. If we were to model ourselves on a right
 system we should pay as much attention to the development of a boy's
-Ã¦sthetic as to his physical side.
+æsthetic as to his physical side.
 
 As it is we distrust music, painting, acting and reading as effeminate
 and degrading. We look on the cult of the beautiful as in some degree
@@ -2672,7 +2709,7 @@ I have had a series of visits lately from Stapleton, who was at Oxford
 with me: he has been appointed curate at Todsdale, an enormous mining
 town, and the life there is nearly killing him. The eternal squalor
 and dreariness of the life, the pettiness of the routine at the Clergy
-House, the lack of any intellectual or Ã¦sthetic interests all bid fair
+House, the lack of any intellectual or æsthetic interests all bid fair
 to send him out of his mind.
 
 He usually comes over on a motor-bicycle on Thursday afternoons, and
@@ -3087,7 +3124,7 @@ immoral. In other words I try to develop the imagination.
 
 I have made friends during the last two or three weeks with
 Copplestone, who is a House-master of a very religious turn of mind. He
-dislikes corporal punishment and is hence looked upon as anÃ¦mic both
+dislikes corporal punishment and is hence looked upon as anæmic both
 by his boys and his colleagues. He reads (quaintly enough) nothing but
 Arnold Bennett. I go up to his rooms and talk by the hour about "The
 Old Wives' Tale," "Clayhanger," and "Hilda Lessways": he is rather a
@@ -3096,7 +3133,7 @@ school, and yet he feels that we represent the humanitarian side of
 education. He is like Sir Thomas More, torn between his reason and
 emotion: like Sir Thomas More he is going to suffer for his ill-timed
 birth. Had he been born ten years earlier he would have been a
-whole-hearted upholder of _l'ancien rÃ©gime_. Had he been born ten years
+whole-hearted upholder of _l'ancien régime_. Had he been born ten years
 later he would have been one of us and not cared a rap about the old
 men or tradition. His only course is to resign and become a village
 priest: he would be admirable with old ladies, and the younger members
@@ -3187,7 +3224,7 @@ no ideals. All he has to do is to sit tight for three months at a time;
 he is certainly not bound to exert himself very severely by the letter
 of his contract. Then come these golden weeks of lovely spring when he
 may disport himself as Stapleton and I have done, prying into unknown
-nooks and crannies of mediÃ¦val England, lazily wandering by hedgerow
+nooks and crannies of mediæval England, lazily wandering by hedgerow
 and riverside, gossiping over gates to farmers, reading to his heart's
 content on sunny beach or secluded meadow by day, or in the ingle-nook
 by night. He has no cares, no worries: his salary will pay for all
@@ -3435,7 +3472,7 @@ particular sort of literature that boys like. Only too frequently
 Shakespeare palls; Milton, Pope and Wordsworth are quite beyond the
 average boy. On the other hand they cannot have too much of balladry.
 "Tam Lyn," "Sir Patrick Spens," "Sir Cauline," and the rest they love.
-So with mediÃ¦val legends like "Sir Gawayne and the Green Knight."
+So with mediæval legends like "Sir Gawayne and the Green Knight."
 Most boys after a careful introduction to the life of the age of
 Queen Anne and the curious characters of Swift, Steele, Addison and
 Defoe, appreciate quickly the beauties of the _Spectator_, and are
@@ -3454,7 +3491,7 @@ foul-mouthed and immoral-minded a poet" to boys. Poor old Masefield. I
 don't suppose he reckoned with the Public School attitude when he set
 out on his mission of outspokenness. In order to keep the problems of
 modern life before my form I strew my classroom with daily and weekly
-papers, monthly and quarterly reviews, and demand prÃ©cis of all the
+papers, monthly and quarterly reviews, and demand précis of all the
 more important articles before or after debates on all sorts of modern
 problems. I have started to do more original work myself. The _World of
 School_ has accepted two or three articles on educational reform which
@@ -3842,12 +3879,12 @@ the time and had the extraordinary luck to outwit a whole section of
 Cameronians (regulars) in one field-day while I was investigating
 behind the enemy's lines. What an ideal country for fighting this is,
 with all the pine-trees and the long stretch of Laffan's Plain and
-CÃ¦sar's Camp. I wish that Radchester could be burnt down and rebuilt
+Cæsar's Camp. I wish that Radchester could be burnt down and rebuilt
 somewhere on these Surrey hills. Every evening I used to tramp over to
 the Aldershot baths from Farnborough, tired as I was, and then back to
 join the riotous "sing-songs." I find that one gets through a good deal
 of money at the canteens. I always want to eat like a pig and drink
-like a fish at the finish of each day's manÅ“uvres. I have never been
+like a fish at the finish of each day's manoeuvres. I have never been
 so bronzed as I am this year: my face is almost black with the sun and
 the dust. We had some excellent fights during the ten days, not always
 as on the programme. We had a first-class row with the Melton corps.
@@ -3884,7 +3921,7 @@ these fifteen-year-olds, who would be tremendously upset if he didn't
 eat all that was offered to him. But the man we all stand in dread
 of is the Brigade Sergeant-Major, who has a voice of thunder, and
 puts the fear of God into every one who comes near him, officer and
-man alike. He seems to be a walking encyclopÃ¦dia; there is nothing he
+man alike. He seems to be a walking encyclopædia; there is nothing he
 doesn't know and he requires absolute perfection every time. I must say
 ten days of this life make our puny efforts at school to be smart look
 pretty cheap. Here we really get the hang of things: at school somehow
@@ -4062,7 +4099,7 @@ advancing troop by repeated ambushes. I nearly ran my people off their
 feet, but it was rare fun. We just appeared in the most unlikely
 places, forced the enemy to waste time by deploying, let them get
 quite close and then scattered and met again farther back along the
-line and repeated the manÅ“uvre. The whole business was overwhelmingly
+line and repeated the manoeuvre. The whole business was overwhelmingly
 successful for we delayed their advance until it ceased to be of any
 effect. I prefer this sort of tactical scheme to the usual one of
 merely putting out outposts or an advanced guard. The only way to
@@ -4186,7 +4223,7 @@ Company. I got to the theatre at a quarter to ten.
 _January 19, 1912_
 
 I spent most of my days with Ruth for the rest of the holidays, doing
-all the correct things, having tea _tÃªte-Ã -tÃªte_ at Fortt's, going to
+all the correct things, having tea _tête-à-tête_ at Fortt's, going to
 the theatre on Friday nights (the fashionable night in Bath), walking
 over Lansdown and down the Avon valley, beagling together (that was
 best of all: she is a superb athlete) and dancing together whenever
@@ -4256,7 +4293,7 @@ From what I have seen of girls in Bath I should say that the system
 of education in girls' schools is no better than that of boys: they
 certainly know a little more about English literature, because their
 mistresses read aloud to them passages out of the novels of Charlotte
-and Emily BrontÃ«, Jane Austen, Dickens and Thackeray. They also devote
+and Emily Brontë, Jane Austen, Dickens and Thackeray. They also devote
 more time to poetry than we do, but they forget it all as soon as they
 leave school. They don't see that these books taken altogether form
 a complete introduction to life. The average girl I have danced with
@@ -4269,7 +4306,7 @@ to sit out somewhere more secluded than this rather open spot? Am I
 certain that I had enough supper? Isn't the way Jim Dainton and Sophie
 Harrington are behaving "perfectly disgusting"? Don't I love Irene
 Fairhaven? Isn't Joyce, or Corelli Windyatt, or Moritz, or Stanislaus
-WÃ¼rm, or whoever is playing on this particular evening, divine,
+Würm, or whoever is playing on this particular evening, divine,
 topping, ducky, dinky, perfectly sweet, ripping--or whatever the word
 of the moment is? Shall I be at the Morrisons' on Tuesday or the
 Dohertys' on Thursday?
@@ -4753,8 +4790,8 @@ House on the different verdicts formed by each member of the class.
 
 I find my system of entertaining boys to tea a very expensive one. I
 gave a large party to my form _en bloc_ at the end of term: it cost me
-Â£2 10s. I shouldn't mind if I were earning a living wage, but Â£40 a
-year out of my Â£150 is docked for a pension scheme in which I take no
+£2 10s. I shouldn't mind if I were earning a living wage, but £40 a
+year out of my £150 is docked for a pension scheme in which I take no
 interest, and Oxford bills still come in and I can never meet them. The
 holidays, too, eat such a hole into one's salary. I am always "broke"
 and always in debt. I wish I could learn to save. Some men seem to have
@@ -5025,7 +5062,7 @@ refused to turn out because they were not given longer warning. Hallows
 is in a fine state of frenzy. What will happen to the captain of the
 offending House I can't think. Games "bloods" do occasionally get
 obstreperous, but do not often care to risk Hallows' wrath. I shall be
-interested to see the _dÃ©nouement_.
+interested to see the _dénouement_.
 
 I have been into Scarborough with Pollock to see _Passers-By_ and
 _Hindle Wakes_. Houghton's play seems to me to be epoch-making. Quite
@@ -5101,7 +5138,7 @@ of time. I have been trying for various Head Masterships and been
 offered that of Chipping Campden. I was particularly tempted to accept
 it at first, because of the beauty of the place. Mais, Stapleton, and
 I used to walk out there from Oxford on Sundays: it is one of the most
-perfect mediÃ¦val towns I know, but it is probably too remote from the
+perfect mediæval towns I know, but it is probably too remote from the
 bustle of life for a man like myself. Anyway I refused it.
 
 
@@ -5174,7 +5211,7 @@ home and not leaving it to the women. I rather think that he fulfils my
 ideal of a school preacher. He never has any notes, but simply talks in
 a most personal way about the difficulties that beset him, problems of
 public interest, even controversial topics. He, at any rate, tries to
-rouse the intellectual and Ã¦sthetic faculties and he is inordinately
+rouse the intellectual and æsthetic faculties and he is inordinately
 cheerful always in spite of wretched health.
 
 Boys crowd to his rooms for spiritual advice. He is almost the perfect
@@ -5488,7 +5525,7 @@ Elspeth and I went to all the point-to-point meetings together and I
 recalled my envious longings of the year before. Now I am as content
 and as happy as it is possible for man to be. There isn't a shadow
 on the horizon. We wander about Bath arm-in-arm, have tea at Fortt's
-_tÃªte-Ã -tÃªte_, go to the theatre together, shop, and in the evening
+_tête-à-tête_, go to the theatre together, shop, and in the evening
 Elspeth and her mother make things for her "bottom drawer," while I
 pretend to read or write.
 
@@ -5522,7 +5559,7 @@ catalogue her like this: all I know is that I love her so passionately
 that life without her is inconceivable....
 
 We have so far compromised that Elspeth and I are to be married in
-August if I can get a job of Â£300 a year by then.
+August if I can get a job of £300 a year by then.
 
 
 _May 20, 1913_
@@ -5531,7 +5568,7 @@ It was worse than ever coming back to Radchester this time. The long
 holiday all alone with Elspeth makes life without her more unbearable
 than ever. I don't suppose people in our position usually feel like
 this. Most of the engaged couples whom I know are delightfully placid.
-Men are quite glad to get away from their fiancÃ©es and have a "fling"
+Men are quite glad to get away from their fiancées and have a "fling"
 with their old acquaintances before the gates of the prison-house of
 marriage finally close on them. I seem to have changed entirely since
 I met her. I am now simply a bundle of nerves enduring agonies of
@@ -5664,11 +5701,11 @@ right on the outskirts of the town, a semi-detached "villa," rather
 like the house in Stratford-on-Avon in which Shakespeare was born: it
 has a tiny stretch of garden and a superb view from the dining-room
 and bedroom windows of the park and the wooded hills of the south away
-towards the sea. Â£35 a year is the rent. We measured every nook of it
+towards the sea. £35 a year is the rent. We measured every nook of it
 for carpets and stairs and hall furniture, and made an inventory of
 everything that we should want. We spend many happy hours searching
 through catalogues for all that we shall require in the house. I have
-insured my life for Â£1000, so that Elspeth will not be left quite
+insured my life for £1000, so that Elspeth will not be left quite
 penniless if I die suddenly. We play tennis a good deal and I read a
 fair amount, but I haven't the heart to write very much. I don't quite
 know why.
@@ -5698,7 +5735,7 @@ all my books, which I now see was one of the grossest mistakes I
 ever committed in my life. At the time I thought of it as a piece of
 heroism and great self-sacrifice. The episode reminds me of Charles
 Lamb and the cake. As a matter of fact it was a piece of unmitigated
-foolishness. I only got Â£50 for the lot, and the notes that I had made
+foolishness. I only got £50 for the lot, and the notes that I had made
 in them might be worth that if I had kept and used them.
 
 We were married with a great show of pomp and splendour on the sixth
@@ -5754,7 +5791,7 @@ other. Nothing else contents us.
 
 We went on to London after this in order to buy the requisite furniture
 for our cottage. We accomplished this in a single day, spending about
-Â£150 in all in equipping ourselves with a complete outfit from "cellar
+£150 in all in equipping ourselves with a complete outfit from "cellar
 to attic." We are now back again in Bath.
 
 
@@ -5791,9 +5828,9 @@ _September 11, 1913_
 
 I have just been up to the Board of Education to be interviewed for a
 lucrative post in India. I should dearly like to go and I have the job
-definitely offered me, Â£600 a year to inspect the teaching of English
+definitely offered me, £600 a year to inspect the teaching of English
 in Ceylon, but Elspeth is against it, so I shall have to refuse. I was
-also offered Â£7 a week to sub-edit the Daily Tatler, but I could not of
+also offered £7 a week to sub-edit the Daily Tatler, but I could not of
 course break my contract at Marlton, and they would not keep it open,
 so that's off. I should like to be a journalist. The work would suit me
 admirably.
@@ -6156,8 +6193,8 @@ boy committing suicide at Marlton, whereas they might at Radchester.
 Nevertheless there are several things that are wrong about the place.
 The lack of energy is by far the most noticeable. The lack of reading
 is perhaps the next and may follow from it. The school library is very
-old and well stocked with mediÃ¦val books of all sorts, being peculiarly
-rich in archÃ¦ological, historical and theological works, but it seems
+old and well stocked with mediæval books of all sorts, being peculiarly
+rich in archæological, historical and theological works, but it seems
 to have stopped stocking new books about 1890. The amount of modern
 stuff in it is composed entirely of books of little value which have
 been presented to it. There is no system on which books are bought
@@ -6262,7 +6299,7 @@ very carefully prepared speeches, and there are less irrelevancies. I
 have had one severe attack of appendicitis, but it passed off after a
 few hours. Of course the school has had the usual diseases, mumps and
 diphtheria. The whole town is down with the latter: it is said that the
-water is bad, the milk is bad, and the sanitary arrangements mediÃ¦val.
+water is bad, the milk is bad, and the sanitary arrangements mediæval.
 It is really the most backward, sleepy place I ever came across. The
 District Council fight among themselves, but never do anything for the
 public weal. Most of the members are drapers, butchers, and bakers, and
@@ -6310,7 +6347,7 @@ disregarding rules of a thousand years' growth," and so on.
 
 I like my Army class work. The English required for Sandhurst and
 Woolwich is of a very low standard, but it is amusing. These general
-questions, prÃ©cis, reproductions, and so on, give me a chance of
+questions, précis, reproductions, and so on, give me a chance of
 introducing favourite passages from great authors, and I try my hardest
 to make them read for themselves by running a sort of library in my
 classroom. I fill up all my vacant shelves with "likely" books, and
@@ -6326,7 +6363,7 @@ most of the boys respond to the idea splendidly. The worst of it is
 that they come to me, for the most part, desperately ignorant; three or
 four plays of Shakespeare, and Sheridan and Goldsmith comprise their
 whole stock of knowledge. On the other hand, there is a handsome prize
-awarded annually (Â£20 worth of books), called the "Carfax," for the
+awarded annually (£20 worth of books), called the "Carfax," for the
 boy who shows the best knowledge on Shakespeare, three set authors,
 and a general paper on all the best authors from 1800 to the present
 time. This stimulates the senior boys, and in this, the Lent term,
@@ -6360,11 +6397,11 @@ that I might continue to bombard the editors and publishers with
 copy. There wasn't much doing, but we saw numbers of quite excellent
 plays. I received a commission from Goddard's to edit a dozen plays of
 Shakespeare and other dramatists for use in schools, for which they
-promised me Â£50. I didn't spend as much time over them as I could
+promised me £50. I didn't spend as much time over them as I could
 have wished. My old disease of hurry made me write Introductions
 which I ought to have done much better, but my object was to say as
 little as possible and not to overburden the juvenile mind with a
-million unnecessary notes. It was an easily earned Â£50. I finished my
+million unnecessary notes. It was an easily earned £50. I finished my
 anthology, which I called "A Cluster of Grapes," and started to produce
 a School Mathematical Course, which I eventually gave up because it
 bored me.
@@ -6387,12 +6424,12 @@ summer is exquisite: the town is just one blaze of colour: it is much
 too hot, but luckily Elspeth loves the heat, and I don't mind it much.
 Besides there is splendid bathing in the open-air school swimming-bath.
 Financial affairs have been a constant thorn in my flesh. Here I
-get Â£200, and on that I have to keep Elspeth, and a servant at Â£18
-a year, a house the rent of which is Â£35 and the taxes Â£15. I give
-her Â£2 a week on which to keep house, and we spend money like water
+get £200, and on that I have to keep Elspeth, and a servant at £18
+a year, a house the rent of which is £35 and the taxes £15. I give
+her £2 a week on which to keep house, and we spend money like water
 by travelling in the holidays. Worst of all I am still paying off
 old Oxford debts, which drag us down still further, and my books and
-tobacco bill average about Â£3 a term. All the other masters have
+tobacco bill average about £3 a term. All the other masters have
 private means and live like princes. I suppose we ought to economize by
 having no people to stay with us, but it would be deadly for Elspeth
 while I was in school if she was always alone, and I, too, like old
@@ -6433,7 +6470,7 @@ Meredith. I get more pleasure out of these two than out of any other
 boys in the school. By far the rottenest thing I have to do is private
 tuition. This means taking two or three very backward boys, usually in
 mathematics, for an hour three times a week. For this we get extra pay,
-Â£2 2s. for each boy! That is six guineas for thirty-nine hours' work.
+£2 2s. for each boy! That is six guineas for thirty-nine hours' work.
 Whereas I have before now got six guineas for an article which hasn't
 taken me more than thirty-nine minutes. I grudge the time I have to
 devote to these boys more than I can say; they know nothing, they never
@@ -6492,7 +6529,7 @@ of it all. I have finished correcting all my examination papers, and
 done my reports, added up my marks, and now all is over. Elspeth has
 been kindness itself to me lately; there is no doubt of the depth of
 our love for each other. I have been making a will, which seems silly
-because I don't leave much; about Â£150 worth of debts, and Â£1000 to
+because I don't leave much; about £150 worth of debts, and £1000 to
 pay them with from my insurance. Of course there'll be the furniture,
 but that's not much of an heirloom. I have had several horrible qualms
 about death, but, good heavens! it's no good worrying. I wonder whether
@@ -6928,9 +6965,9 @@ beginning to think, there is hope for them. There are, however, many
 masters who tell me that boys ought not to think: they ought to accept
 and not question, that to inculcate the carping spirit is a malicious
 practice. I wonder how much this is true. I stand and everyone knows
-it, for the cultivation of the Ã¦sthetic and the intellectual first,
+it, for the cultivation of the æsthetic and the intellectual first,
 just because in the past they have been so despised. I am myself
-neither Ã¦sthetic nor intellectual but I have a craving after each.
+neither æsthetic nor intellectual but I have a craving after each.
 Athletics in themselves cannot satisfy the inner cravings of man: he
 wants more nourishment than that. I like to see the school magazine
 filled with good sound articles of general interest and poetry, as well
@@ -7031,7 +7068,7 @@ both benefited enormously from our stay and were loath to go.
 _December 31, 1915_
 
 We determined to take in a paying guest this term: our Scottish tour
-cost us Â£100. Luckily we got an exceedingly interesting man, just
+cost us £100. Luckily we got an exceedingly interesting man, just
 down from Oxford, who has come here to take temporary work. He is a
 great historian and exceedingly keen on political economy. He began
 by being badly "ragged" by the boys and detested by his colleagues
@@ -7185,7 +7222,7 @@ it and useless. The term has passed quietly. I have been told by the
 Head Master that my writings do not altogether please my colleagues,
 that I do not temper my enthusiasm with sufficient discretion or think
 long enough before I commit myself to a judgment. I have been too much
-obsessed with my theory that the intellectual and Ã¦sthetic faculties
+obsessed with my theory that the intellectual and æsthetic faculties
 should be cultivated before the others to see the dangerous side of my
 tenets. I hate upsetting the masters here because some of them have
 been very long-suffering with my madness. I am certainly extremely
@@ -7215,7 +7252,7 @@ at last something will be accepted. If only I could get a series
 commissioned, I should be happy. It's a fiendish business thinking out
 subjects to amuse people, only to be turned down by one editor after
 another. I spend a small fortune in stamps alone. All the same I ought
-not to grumble: I make on an average about Â£100 a year by writing.
+not to grumble: I make on an average about £100 a year by writing.
 When editors do pay, they pay handsomely, quite out of proportion to
 the trouble of writing the one article that finds acceptance. What
 stupefies me is the enormous drawer full of writings all sent back too
@@ -7314,7 +7351,7 @@ heavy odds. It is a wonderful place. It was a very clear day and in
 the intervals of fighting we got a chance of taking in the beauties
 that lay before us, the winding valleys, the furze-clad downs, the
 distant white cliffs and the green of the open sea. Few of those who
-took part in this manÅ“uvre will quickly forget the impression which
+took part in this manoeuvre will quickly forget the impression which
 this superb view of Sussex made on their minds. Such a day fills us
 all with renewed energies for our work: we fill our lungs with fresh
 air and our minds with fresh and invigorating thoughts: we go back to
@@ -7588,7 +7625,7 @@ literary section of London live. They are very different from the
 Marlton people: their codes are much less stringent, they are far more
 tolerant, they seem to get much more out of life. They are intensely
 interested in art, painting, sculpture, music, the drama, and all
-Ã¦sthetic delights. Elspeth was taken up at once by them: she has the
+æsthetic delights. Elspeth was taken up at once by them: she has the
 sort of uncommon beauty that passes more or less without comment in
 Marlton but in London is looked upon with admiration. She seems much
 healthier and more vivacious in town: the life agrees with her. I
@@ -7809,7 +7846,7 @@ The master makes his way to his desk, sits down and raps out suddenly:
 as soon as you come into the room? Harrison minor, are you _still_
 conversing? Thank you, thank you for your momentary attention. If you
 will be so good as to bring me the last three hundred lines of the
-Fourth Ã†neid on Thursday, second school, we shall be, I think, at
+Fourth Æneid on Thursday, second school, we shall be, I think, at
 one again. Shut your books. Write out the Rep." Silence then follows,
 except for the scraping of pens, the dropping of books and mathematical
 instruments, and the whispered monotone of one boy who is copying it
@@ -8176,7 +8213,7 @@ view; flannels and gymnastic dress will probably be most popular.
 The Latin taught will certainly not be of the grammar-grind sort:
 conversation will go on between girl and boy, others in the same class
 will be constructing a Roman amphitheatre, or working out, on a sort of
-_Daily Mail_ war board, a campaign of Pompey or CÃ¦sar.
+_Daily Mail_ war board, a campaign of Pompey or Cæsar.
 
 The life of a Roman citizen will be enacted and written about by the
 classes: all the time the boys and girls will be doing the work; the
@@ -8383,4 +8420,367 @@ original spelling, punctuation and hyphenation have been left intact.
 
 End of Project Gutenberg's A Schoolmaster's Diary, by Stuart Petre Brodie Mais
 
-*** END OF THE PROJECT GUTENBERG EBOOK 51633 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK A SCHOOLMASTER'S DIARY ***
+
+***** This file should be named 51633-8.txt or 51633-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/1/6/3/51633/
+
+Produced by Chris Whitehead, MWS and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive/Canadian Libraries)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
